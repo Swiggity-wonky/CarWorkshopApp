@@ -469,3 +469,18 @@ C:\Users\sandr\OneDrive\Skrivebord\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.
 C:\Users\sandr\OneDrive\Skrivebord\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\sandr\OneDrive\Skrivebord\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\sandr\OneDrive\Skrivebord\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\CarWorkshopApp.csproj.AssemblyReference.cache
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\CarWorkshopApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\CarWorkshopApp.dll
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\refint\CarWorkshopApp.dll
+c:\Users\Luqman Nur\Desktop\FED\frontend-hand-in-1\CarWorkshopApp\CarWorkshopApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\CarWorkshopApp.pdb
