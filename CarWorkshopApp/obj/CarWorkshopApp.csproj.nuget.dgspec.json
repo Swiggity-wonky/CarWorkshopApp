@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\wetransfer_carworkshopapp_2025-03-03_1135\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj": {}
+    "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\wetransfer_carworkshopapp_2025-03-03_1135\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj": {
+    "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\wetransfer_carworkshopapp_2025-03-03_1135\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj",
+        "projectUniqueName": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj",
         "projectName": "CarWorkshopApp",
-        "projectPath": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\wetransfer_carworkshopapp_2025-03-03_1135\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj",
+        "projectPath": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\CarWorkshopApp\\CarWorkshopApp\\CarWorkshopApp.csproj",
         "packagesPath": "C:\\Users\\Luqman Nur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\wetransfer_carworkshopapp_2025-03-03_1135\\CarWorkshopApp\\CarWorkshopApp\\obj\\",
+        "outputPath": "C:\\Users\\Luqman Nur\\Desktop\\FED\\frontend-hand-in-1\\CarWorkshopApp\\CarWorkshopApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
