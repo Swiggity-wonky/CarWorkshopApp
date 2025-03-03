@@ -1,0 +1,9 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarWorkshopApp.MainPage">
+    <StackLayout>
+        <Button Text="Book ny opgave" Clicked="OnBookTaskClicked"/>
+        <Button Text="Oversigt over opgaver" Clicked="OnTaskOverviewClicked"/>
+        <Button Text="Faktura / Udført arbejde" Clicked="OnInvoiceClicked"/>
+    </StackLayout>
+</ContentPage>

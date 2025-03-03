@@ -1,0 +1,29 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:CarWorkshopApp.ViewModels"
+             x:Class="CarWorkshopApp.Views.BookTaskPage">
+    <ContentPage.BindingContext>
+        <vm:BookTaskViewModel />
+    </ContentPage.BindingContext>
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Label Text="Kundeoplysninger:" FontAttributes="Bold" />
+            <Entry Placeholder="Navn" Text="{Binding Task.CustomerName}" />
+            <Entry Placeholder="Adresse" Text="{Binding Task.CustomerAddress}" />
+
+            <Label Text="Biloplysninger:" FontAttributes="Bold" />
+            <Entry Placeholder="Bilmærke" Text="{Binding Task.CarBrand}" />
+            <Entry Placeholder="Model" Text="{Binding Task.CarModel}" />
+            <Entry Placeholder="Indregistreringsnummer" Text="{Binding Task.RegistrationNumber}" />
+
+            <Label Text="Indlevering:" FontAttributes="Bold" />
+            <DatePicker Date="{Binding Task.DeliveryDate}" />
+            <TimePicker Time="{Binding Task.DeliveryTime}" />
+
+            <Label Text="Arbejdsbeskrivelse:" FontAttributes="Bold" />
+            <Editor Placeholder="Beskriv hvad der skal laves" Text="{Binding Task.WorkDescription}" />
+
+            <Button Text="Gem opgave" Command="{Binding SaveTaskCommand}" Style="{StaticResource PrimaryButtonStyle}" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

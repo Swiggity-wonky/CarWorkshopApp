@@ -1,14 +1,14 @@
-﻿namespace CarWorkshopApp;
+﻿using Microsoft.Maui;
 
-public partial class App : Application
+namespace CarWorkshopApp
 {
-	public App()
-	{
-		InitializeComponent();
-	}
-
-	protected override Window CreateWindow(IActivationState? activationState)
-	{
-		return new Window(new AppShell());
-	}
+    public partial class App : Application
+    {
+        [Obsolete]
+        public App()
+        {
+            InitializeComponent();
+            MainPage = new MainPage();
+        }
+    }
 }

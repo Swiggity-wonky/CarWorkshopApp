@@ -1,0 +1,26 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:CarWorkshopApp.ViewModels"
+             x:Class="CarWorkshopApp.Views.TaskOverviewPage">
+    <ContentPage.BindingContext>
+        <vm:TaskOverviewViewModel />
+    </ContentPage.BindingContext>
+    <StackLayout Padding="20">
+        <Label Text="Vælg dato:" FontAttributes="Bold" />
+        <DatePicker Date="{Binding SelectedDate}" />
+
+        <ListView ItemsSource="{Binding Tasks}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Vertical" Padding="10">
+                            <Label Text="{Binding CustomerName}" FontAttributes="Bold" />
+                            <Label Text="{Binding CarBrand}" />
+                            <Label Text="{Binding DeliveryDate, StringFormat='Dato: {0:d}'}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
